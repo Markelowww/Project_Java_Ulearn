@@ -12,7 +12,7 @@ for (Base value : list.bases)
 
 Вывод 1 задачи:
 
-![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/master/First.png)
+![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/main/First.png)
 
 График 1 задачи:
 
