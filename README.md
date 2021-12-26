@@ -16,12 +16,12 @@ for (Base value : list.bases)
 
 График 1 задачи:
 
-![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/master/graphic.png)
+![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/main/graphic.png)
 
 Вывод 2 задачи:
 
-![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/master/Second.png)
+![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/main/Second.png)
 
 Вывод 3 задачи:
 
-![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/master/Third.png)
+![a](https://github.com/Markelowww/Project_Java_Ulearn/blob/main/Third.png)
